@@ -1,0 +1,15 @@
+﻿byte Abyte = 0;
+short Ashort = 0;
+int Aint = 0;
+long Along = 0L;
+sbyte Asbyte = 0;
+ushort Aushort = 0;
+uint Auint = 0U;
+ulong Aulong = 0U;
+float Afloat = 0F;
+double Adouble = 0;
+decimal Adecimal = 0M;
+char Achar = 'a';
+string Astring = "a";
+bool Abool = false;
+Console.WriteLine($"byte {Abyte}\nshort {Ashort}\nint {Aint}\nlong {Along}\nsbyte {Asbyte}\nushort {Aushort}\nuint {Auint}\nulong {Aulong}\nfloat {Afloat}\ndouble {Adouble}\ndecimal {Adecimal}\nchar {Achar}\nstring {Astring}\nbool {Abool}");

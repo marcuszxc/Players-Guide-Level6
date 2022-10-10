@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\bin\Debug\net6.0\Level6.exe
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\bin\Debug\net6.0\Level6.deps.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\bin\Debug\net6.0\Level6.runtimeconfig.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\bin\Debug\net6.0\Level6.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\bin\Debug\net6.0\Level6.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\refint\Level6.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\Level6.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level6\Level6\obj\Debug\net6.0\ref\Level6.dll

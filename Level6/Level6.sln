@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheVariableShop", "TheVariableShop.csproj", "{79F5B684-3803-4DE8-BA22-580C3BA03EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheVariableShopReturns", "..\TheVariableShopReturns\TheVariableShopReturns.csproj", "{9E2B7F0E-33B4-44DA-A116-8BCCE4B44776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F5B684-3803-4DE8-BA22-580C3BA03EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F5B684-3803-4DE8-BA22-580C3BA03EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F5B684-3803-4DE8-BA22-580C3BA03EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F5B684-3803-4DE8-BA22-580C3BA03EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2B7F0E-33B4-44DA-A116-8BCCE4B44776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2B7F0E-33B4-44DA-A116-8BCCE4B44776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2B7F0E-33B4-44DA-A116-8BCCE4B44776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2B7F0E-33B4-44DA-A116-8BCCE4B44776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02F4C51-340C-4071-BBF4-832658827C4E}
+	EndGlobalSection
+EndGlobal
